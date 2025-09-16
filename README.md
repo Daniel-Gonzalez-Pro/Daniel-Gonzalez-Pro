@@ -1,3 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background: linear-gradient(to right, #0047AB, #000000);
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+
 # Portafolio Daniel González
 
 **Ingeniero de Ejecución en Informática**  
