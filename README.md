@@ -54,7 +54,7 @@ Mi nombre es Daniel González, Soy talquino de nacimiento, con experiencia en mo
 
 **Buckes y política de seguridad para usuarios**  
 Información del proyecto.
-📄 [Descargar el PDF del proyecto](./Bcuket%20AWS%20Portafolio.pdf)
+📄 [Descargar el PDF del proyecto](./Bucket%20AWS%20Portafolio.pdf)
 
 ---
 
