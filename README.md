@@ -10,7 +10,7 @@ Contacto: [d.elias2040@hotmail.com](mailto:d.elias2040@hotmail.com)
 
 ## 🧠 Sobre mí
 
-Mi nombre es Daniel González, Soy talquino de nacimiento, con experiencia en modalidad freelance asesorando a clientes con distintos niveles de conocimientos informáticos. También trabajé en el área informática de una clínica odontológica.
+Mi nombre es Daniel González, Soy talquino de nacimiento, con experiencia en modalidad Freelance asesorando a clientes con distintos niveles de conocimientos informáticos. También trabajé en el área informática de una clínica odontológica.
 
 ---
 
@@ -42,10 +42,10 @@ Mi nombre es Daniel González, Soy talquino de nacimiento, con experiencia en mo
 
 ## 🎯 Intereses
 
-- Tecnología y hardware de PC  
-- Ajedrez, ciclismo de montaña, motociclismo  
-- Senderismo, ping pong  
-- Música en Alta Fidelidad
+- Tecnología y hardware de PC . 
+- Ajedrez, ciclismo de montaña, motociclismo  .
+- Senderismo, ping pong .
+- 
 
 ---
 
@@ -57,13 +57,6 @@ Información del proyecto.
 
 ---
 
-## 🧭 Navegación
 
-- [Proyectos](#proyectos-de-ciberseguridad)
-- [Sobre mí](#sobre-mí)
-- [Formación](#formación-académica)
-- [Contacto](#portafolio-dan)
 
----
 
-> Este README resume el contenido de tu portafolio web y puede ser usado como presentación principal en tu repositorio. Si quieres que lo adaptemos con badges, íconos o tablas técnicas, lo hacemos juntos.
