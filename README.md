@@ -44,16 +44,17 @@ Mi nombre es Daniel González, Soy talquino de nacimiento, con experiencia en mo
 
 - Tecnología y hardware de PC . 
 - Ajedrez, ciclismo de montaña, motociclismo  .
-- Senderismo, ping pong .
-- 
+- Senderismo, ping pong , actividades al aire libre.
+  
 
 ---
 
-## 🚀 Proyectos de Ciberseguridad
+## 🚀 Crear Un Bucket en la Red de Amazon AWS, que siga las normas  respecto a los usuarios, sus grupos y las politicas de seguridad a cada uno de ellos.
 
-### [GotoSend](https://gotosend.com/)
-**Nombre del Proyecto**  
+
+**Buckes y política de seguridad para usuarios**  
 Información del proyecto.
+📄 [Descargar el PDF del proyecto](./Bcuket%20AWS%20Portafolio.pdf)
 
 ---
 
